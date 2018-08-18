@@ -1,0 +1,62 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  font-size: 16px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+#header-nav>.container-fluid{
+  background-color: grey;
+  border:3px solid black;
+}
+
+.navbar-brand h1{
+  font-weight: bold;
+  color: black;
+  margin-top: 0px;
+  font-size: 1.5em;
+}
+
+h2{
+  font-weight: bold;
+  color: black;
+  margin-bottom: 40px;
+}
+
+.navbar-toggle{
+  color: white;
+  background-color: white;
+}
+
+#nav-list {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: white;
+}
+#nav-list a {
+  color:black;
+  text-align: center;
+}
+hr{
+  border: 1px solid black;
+  width:100%;
+}
+
+#body_title .text-center{
+  font-weight: bold;
+  padding-top: 0px;
+  font-size: 2em;
+  margin-top: 0px;
+  width: 100%;
+}
+.col-xs-12 {
+   width: 97%; 
+}
+section{
+  box-sizing: border-box;
+  background-color: grey;
+  color: black;
+  padding: 10px;
+  margin: 1.5%;
+}
